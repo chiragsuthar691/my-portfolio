@@ -1,0 +1,4 @@
+export const REACT_APP_MAILCHIMP_ID = process.env.REACT_APP_MAILCHIMP_ID;
+export const REACT_APP_MAILCHIMP_U = process.env.REACT_APP_MAILCHIMP_U;
+export const REACT_APP_MAILCHIMP_URL = process.env.REACT_APP_MAILCHIMP_URL;
+export const REACT_APP_MAILCHIMP_F_ID = process.env.REACT_APP_MAILCHIMP_F_ID;
